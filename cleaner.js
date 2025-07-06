@@ -1,4 +1,5 @@
 //  npm install snoowrap csv
+// https://old.reddit.com/prefs/apps - create script type app and get credentials
 
 const snoowrap = require('snoowrap');
 
